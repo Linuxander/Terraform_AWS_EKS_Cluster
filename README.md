@@ -1,0 +1,1 @@
+This repository deploys a full Amazon VPC networking setup, with an AWS EC2 Jenkins server, and an EKS Cluster. The intention is to automate a full configuration for an entire CI/CD system geared for a Kubernetes project.
